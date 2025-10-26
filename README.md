@@ -1,4 +1,5 @@
-<h1 align="center">🔒🚀 Hello, I'm Martin Mawien | Securing, Innovating, and Empowering the Digital World</h1>
+<h1 align="center">🔒🚀 Hello, I'm Martin Mawien
+| Aspiring in Securing, Innovating, and Empowering the Digital World</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/Backend%20Engineer-1d72b8?style=for-the-badge&logo=python">
   <img src="https://img.shields.io/badge/Data%20Science-4ca978?style=for-the-badge&logo=pandas">
@@ -27,7 +28,7 @@ I am passionate about <b>real-world impact, technical rigor, and designing ethic
       "I built this project to unravel the complexity of backend system design—making booking seamless, robust, and scalable. It is a showcase of my API integration, authentication, and cloud deployment expertise."
     </i>
     <br>
-    <a href="[Project Repo URL]">🔗 GitHub</a> | <a href="[Live Demo URL]">🌐 Live Demo</a>
+    <a href="https://github.com/Martin-Mawien/airbnb-clone-project">🔗 GitHub</a> | <a href="[Live Demo URL]">🌐 Live Demo</a>
   </li>
   <li>
     <img src="https://img.icons8.com/color/48/000000/bank.png" width="24" />
