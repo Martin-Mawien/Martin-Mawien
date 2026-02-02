@@ -29,9 +29,8 @@ I am passionate about <b>real-world impact, technical rigor, and designing ethic
     </i>
     <br>
     <a href="https://github.com/Martin-Mawien/airbnb-clone-project">🔗 GitHub</a> | <a href="[Live Demo URL]">🌐 Live Demo</a>
-
-    
-<ul>
+  
+    <ul>
   <li>
     <img src="https://img.icons8.com/color/48/000000/flutter.png" width="24" />
     <b>Job Board Platform</b><br>
@@ -39,9 +38,9 @@ I am passionate about <b>real-world impact, technical rigor, and designing ethic
      “I built this project to simplify backend system design—creating a job board that makes talent discovery and applications seamless, secure, and scalable. It showcases my expertise in API integration, authentication, and cloud deployment.”
     </i>
     <br>
-    <a href="https//github.com/Martin-Mawien/alx-project-nexus">🔗 GitHub</a> | <a href="[Live Demo URL]">🌐 Live Demo</a>    
-
-  </li>
+    <a href="https//github.com/Martin-Mawien/alx-project-nexus-" > 🔗 GitHub</a> | <a href="[Live Demo URL]">🌐 Live Demo</a>    
+    
+    </li>
   <li>
     <img src="https://img.icons8.com/color/48/000000/bank.png" width="24" />
     <b>Fintech Security Analytics App</b><br>
