@@ -28,7 +28,7 @@ I am passionate about <b>real-world impact, technical rigor, and designing ethic
       "I built this project to unravel the complexity of backend system design—making booking seamless, robust, and scalable. It is a showcase of my API integration, authentication, and cloud deployment expertise."
     </i>
     <br>
-    <a href="https://github.com/Martin-Mawien/airbnb-clone-project">🔗 GitHub</a> | <a href="[Live Demo URL]">🌐 Live Demo</a>
+    <a href="https://github.com/Martin-Mawien/airbnb-clone-project"> < a hrf="https://github.com/Martin-Mawien/alx-project-nexus>🔗 GitHub</a> | <a href="[Live Demo URL]">🌐 Live Demo</a>
   </li>
   <li>
     <img src="https://img.icons8.com/color/48/000000/bank.png" width="24" />
