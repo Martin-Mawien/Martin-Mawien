@@ -1,6 +1,6 @@
-<h1 align="center">🔒🚀 Hello,
-            I'm Martin Mawien
-| Securing, Innovating, and Empowering the Digital World</h1>
+<h1 align="center">🔒🚀 I'm
+              Martin Mawien
+Securing, Innovating, and Empowering the Digital World</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/Backend%20Engineer-1d72b8?style=for-the-badge&logo=python">
   <img src="https://img.shields.io/badge/Data%20Science-4ca978?style=for-the-badge&logo=pandas">
