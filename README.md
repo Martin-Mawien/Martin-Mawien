@@ -1,5 +1,5 @@
-<h1 align="center">🔒🚀 I'm
-Martin Mawien
+<h1 align="center">🔒🚀 
+I'm Martin Mawien
 | Securing, Innovating, and Empowering the Digital World</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/Backend%20Engineer-1d72b8?style=for-the-badge&logo=python">
