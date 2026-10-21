@@ -9,7 +9,7 @@
 
 <h2>💡 About Me</h2>
 <p>
-I'm an <b>ALX-certified Backend/Web Developer, Data Analyst, and Cybersecurity enthusiast</b> with hands-on experience in AWS cloud.<br>
+I'm a <b> Backend/Web Developer, Data Analyst, and Cybersecurity enthusiast</b> with hands-on experience in AWS cloud.<br>
 Driven by curiosity, I aim to <b>understand, build, protect, and improve everything in the digital universe at once</b>.<br>
 I am passionate about <b>real-world impact, technical rigor, and designing ethical digital solutions</b>.
 </p>
@@ -28,7 +28,7 @@ I am passionate about <b>real-world impact, technical rigor, and designing ethic
       "I built this project to unravel the complexity of backend system design—making booking seamless, robust, and scalable. It is a showcase of my API integration, authentication, and cloud deployment expertise."
     </i>
     <br>
-    <a href="https://github.com/Martin-Mawien/airbnb-clone-project">🔗 GitHub</a> | <a href="[Live Demo URL]">🌐 Live Demo</a>
+    <a href="https://github.com/Martin-Mawien/airbnb-backend">🔗 GitHub</a> | <a href="[Live Demo URL]">🌐 Live Demo</a>
   
     <ul>
   <li>
