@@ -1,5 +1,4 @@
-<h1 align="center">🔒🚀 
-I'm Martin Mawien
+<h1 align="center">🔒🚀Hello, I'm Martin Mawien
 | Securing, Innovating, and Empowering the Digital World</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/Backend%20Engineer-1d72b8?style=for-the-badge&logo=python">
@@ -10,7 +9,7 @@ I'm Martin Mawien
 
 <h2>💡 About Me</h2>
 <p>
-I'm a <b> Backend/Web Developer, Data Analyst, and Cybersecurity enthusiast</b> with hands-on experience in AWS cloud.<br>
+I'm a <b> Backend/Web Developer, Data Analyst, and Cybersecurity enthusiast</b> with hands-on experience in AWS cloud trained with ALXA-frica.<br>
 Driven by curiosity, I aim to <b>understand, build, protect, and improve everything in the digital universe at once</b>.<br>
 I am passionate about <b>real-world impact, technical rigor, and designing ethical digital solutions</b>.
 </p>
